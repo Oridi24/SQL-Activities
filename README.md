@@ -1,6 +1,6 @@
 #  Módulo de SQL Avanzado, ETL y Data Warehouse  
 
-## 📌 Descripción  
+##  Descripción  
 Este módulo está diseñado para proporcionar un conocimiento avanzado en bases de datos relacionales, modelado de datos y arquitecturas de almacenamiento, con un enfoque en la implementación de procesos ETL y la construcción de Data Warehouses optimizados para análisis de datos.  
 
 Durante el curso, se han abordado las mejores prácticas en SQL utilizando herramientas como **PostgreSQL, BigQuery y TablePlus**, aplicando estrategias para optimización de consultas y modelado de datos eficiente.  
@@ -46,12 +46,12 @@ Durante el curso, se han abordado las mejores prácticas en SQL utilizando herra
 
 ##  Implementaciones Destacadas  
 
-✔ **Desarrollo de la tabla `ivr_detail`** con información detallada de llamadas.  
-✔ **Generación de indicadores clave:**  
+**Desarrollo de la tabla `ivr_detail`** con información detallada de llamadas.  
+**Generación de indicadores clave:**  
    - `masiva_lg`: Identificación de llamadas relacionadas con averías masivas.  
    - `info_by_phone_lg`: Detección de clientes identificados por número telefónico.  
    - `repeated_phone_24H`: Identificación de llamadas repetidas en 24 horas.  
-✔ **Construcción de la tabla `ivr_summary`** consolidando métricas clave de llamadas.  
-✔ **Optimización de consultas avanzadas con `JOIN`, `CASE`, `CAST` y estrategias de indexación.**  
-✔ **Implementación de funciones SQL para limpieza y estandarización de datos (`clean_integer()`).**  
+**Construcción de la tabla `ivr_summary`** consolidando métricas clave de llamadas.  
+**Optimización de consultas avanzadas con `JOIN`, `CASE`, `CAST` y estrategias de indexación.**
+**Implementación de funciones SQL para limpieza y estandarización de datos (`clean_integer()`).**  
  
