@@ -7,7 +7,7 @@ Durante el curso, se han abordado las mejores prácticas en SQL utilizando herra
 
 ---  
 
-## 🏗️ Tecnologías y Conceptos Clave  
+##  Tecnologías y Conceptos Clave  
 
 ### 📌 **Modelado y Arquitectura de Datos**  
 - **Diagrama Entidad-Relación (ERD):** Representación estructurada de las relaciones entre entidades de la base de datos.  
@@ -44,7 +44,7 @@ Durante el curso, se han abordado las mejores prácticas en SQL utilizando herra
 
 ---
 
-## 📎 Implementaciones Destacadas  
+##  Implementaciones Destacadas  
 
 ✔️ **Desarrollo de la tabla `ivr_detail`** con información detallada de llamadas.  
 ✔️ **Generación de indicadores clave:**  
